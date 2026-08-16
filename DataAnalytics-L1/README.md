@@ -205,6 +205,7 @@ The project also gave me practical experience with an end-to-end data analytics 
 ## Author
 
 **Sachin Pandey**
+
 Interested in Data Analytics, Python, and building practical technology projects.
 
 ---
